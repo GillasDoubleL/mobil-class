@@ -1,0 +1,15 @@
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\bin\Debug\net6.0\Class Mobil.exe
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\bin\Debug\net6.0\Class Mobil.deps.json
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\bin\Debug\net6.0\Class Mobil.runtimeconfig.json
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\bin\Debug\net6.0\Class Mobil.dll
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\bin\Debug\net6.0\Class Mobil.pdb
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\Class Mobil.csproj.AssemblyReference.cache
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\Class Mobil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\Class Mobil.AssemblyInfoInputs.cache
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\Class Mobil.AssemblyInfo.cs
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\Class Mobil.csproj.CoreCompileInputs.cache
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\Class Mobil.dll
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\refint\Class Mobil.dll
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\Class Mobil.pdb
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\Class Mobil.genruntimeconfig.cache
+C:\Users\Gillas Tanaraw\Documents\Study\Pemrograman\Class Mobil\Class Mobil\obj\Debug\net6.0\ref\Class Mobil.dll
